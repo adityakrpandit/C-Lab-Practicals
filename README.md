@@ -35,6 +35,26 @@ This repository contains basic C programs based on:
 15. Count Vowels & Spaces
 16. Compare Two Strings
 17. Palindrome Check
+
+---
+
+# Unit 2 - C Programming (Structure)
+
+This unit contains programs based on structure concepts in C.
+
+# Programs List
+
+1. Design a structure named student and display student data.
+2. Modify program for 5 students record.
+3. Sort student data by name.
+4. Sort student data by score in descending order.
+5. Print names of students whose grade is greater than 5.0.
+6. Display data of students who joined in 2019.
+7. Add two complex numbers using structure and function.
+8. Demonstrate difference between structure and union.
+9. Compare two dates using structure.
+10. Demonstrate nested structure.
+
 ---
 
 # Tools Used
