@@ -1,4 +1,4 @@
-ADVANCED C ASSIGNMENT (FINAL SUBMISSION)
+ADVANCED C ASSIGNMENT
 
 =========================================
 SECTION A: DEBUGGING
